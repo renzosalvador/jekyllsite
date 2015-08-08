@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+In this site I am trying jekyll, a great framework built on top of ruby. I am using my macbook pro,subline text, iTerm2, git, and running a local server in Google Chrome. [www.renzosalvador.com](http://www.renzosalvador.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can find the source code for the Jekyll new theme at: [github.com/renzosalvador/jekyllsite](https://github.com/renzosalvador/jekyllsite)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
