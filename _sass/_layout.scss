@@ -210,6 +210,12 @@
 .post-content {
     margin-bottom: $spacing-unit;
 
+    img{
+        width: 180px;
+        float:left;
+        margin-right: 1em;
+    }
+
     h2 {
         font-size: 32px;
 
